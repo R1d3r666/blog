@@ -1,0 +1,55 @@
+#---------------------------
+# Fluid 主题配置（覆盖项）
+# 仅列出需要修改的部分，其余沿用主题默认值
+#---------------------------
+
+# 浏览器标签页图标
+favicon: /img/favicon.svg
+apple_touch_icon: /img/avatar.svg
+
+# 导航栏
+navbar:
+  blog_title: "R1d3r 的网安学习笔记"
+
+# 首页
+index:
+  slogan:
+    enable: true
+    # 多行文本随机显示一行
+    text:
+      - "路虽远，行则将至；事虽难，做则必成"
+      - "攻防相长，知其然更要知其所以然"
+      - "Stay Hungry, Stay Foolish"
+  auto_excerpt:
+    enable: true
+
+# 文章页
+post:
+  meta:
+    author:
+      enable: true
+  updated:
+    enable: true
+  category_bar:
+    enable: true
+
+# 关于页
+about:
+  avatar: /img/avatar.svg
+  name: "R1d3r666"
+  intro: "网络安全学习者 · Web 安全 / 渗透测试 / CTF"
+  icons:
+    - { class: "iconfont icon-github-fill", link: "https://github.com/R1d3r666", tip: "GitHub" }
+
+# 关闭未使用的友链页
+links:
+  enable: false
+
+# 页脚
+footer:
+  content: '
+    <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a>
+    <i class="iconfont icon-love"></i>
+    <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a>
+    <span> · Copyright © 2026 R1d3r666</span>
+  '
