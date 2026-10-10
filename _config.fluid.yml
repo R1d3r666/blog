@@ -36,7 +36,7 @@ post:
 # 关于页
 about:
   avatar: /img/avatar.svg
-  name: "R1d3r666"
+  name: "R1d3r"
   intro: "网络安全学习者 · Web 安全 / 渗透测试 / CTF"
   icons:
     - { class: "iconfont icon-github-fill", link: "https://github.com/R1d3r666", tip: "GitHub" }
@@ -51,5 +51,5 @@ footer:
     <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a>
     <i class="iconfont icon-love"></i>
     <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a>
-    <span> · Copyright © 2026 R1d3r666</span>
+    <span> · Copyright © 2026 R1d3r</span>
   '
